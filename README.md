@@ -1,2 +1,2 @@
-# CCR-Family-PaBTSO
-Session notes and other PaB:TSO campaign information for the CCR Family adventuring party.
+# CCR Family - PaBTSO
+Session notes and other _**"Phandelver and Below: The Shattered Obelisk"**_ campaign information for the **CCR Family** adventuring party.
