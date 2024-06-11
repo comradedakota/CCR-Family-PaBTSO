@@ -4,7 +4,7 @@ Middle-aged, human bodyguard to [Gundren Rockseeker](./gundren-rockseeker.md). C
 
 [![alt text](../media/chapter01/Sildar_Hallwinter.webp "Sildar, tortured and bound by the Cragmaw goblins.")](../media/chapter01/Sildar_Hallwinter.webp)
 
-### DM Only
+## DM Only
 <em><strong>Stat Block</strong></em>
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -19,9 +19,11 @@ Sildar met Gundren Rockseeker in Neverwinter and agreed to accompany him to Phan
 
 <details>
     <summary><em><strong>Voice</strong></em></summary>
-Use David Wenham's portrayal of Dilios from "300" as an archetype.<br /><br />
+
+Use David Wenham's portrayal of [Dilios from "300"](https://www.youtube.com/watch?v=Qsma7OGcp6A) as an archetype.
 </details>
-<br />
+
+<hr>
 
 **Sildar provides the characters with the following useful information:**
 <details>
